@@ -15,6 +15,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6cd0a5ab-d5e6-4966-b7d5-dce9f9cad5a1" />
+        <option name="url" value="https://github.com/udeshika0417/Mevan_Demo.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -48,7 +56,7 @@
       <updated>1660061816489</updated>
       <workItem from="1660916930481" duration="131000" />
       <workItem from="1661410009148" duration="19000" />
-      <workItem from="1662033541071" duration="1143000" />
+      <workItem from="1662033541071" duration="2066000" />
     </task>
     <servers />
   </component>
